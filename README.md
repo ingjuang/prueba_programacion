@@ -14,13 +14,19 @@ Este proyecto contiene un algoritmo para sumar las hojas de un árbol utilizando
     ```sh
     git clone https://github.com/ingjuang/prueba_programacion.git
     ```
-2. Ejecuta el algoritmo Tree Leaf App
+2. Instalar dependencias globales
+
+    ```sh
+    npm install -g typescript
+    npm install -g ts-node
+    ```
+4. Ejecuta el algoritmo Tree Leaf App
 
    ```sh
    cd prueba_programacion/src/addingTreeLeafApp
    npx ts-node addTreeLeaf.ts
    ```
-3. Ejecuta el algoritmo Morse Traductor App
+5. Ejecuta el algoritmo Morse Traductor App
 
    ```sh
    cd prueba_programacion/src/morseTraductorApp
