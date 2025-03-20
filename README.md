@@ -12,7 +12,7 @@ Este proyecto contiene un algoritmo para sumar las hojas de un árbol utilizando
 1. Clona el repositorio:
 
     ```sh
-    git clone https://github.com/tu-usuario/tu-repositorio.git
+    git clone https://github.com/ingjuang/prueba_programacion.git
     ```
 2. Ejecuta el algoritmo Tree Leaf App
 
